@@ -1,0 +1,5 @@
+/home/marcelo/NetBeansProjects/CRUD-back/src/main/java/config/ApplicationConfig.java
+/home/marcelo/NetBeansProjects/CRUD-back/src/main/java/produtos/Produto.java
+/home/marcelo/NetBeansProjects/CRUD-back/src/main/java/config/ConstraintViolationExceptionMapper.java
+/home/marcelo/NetBeansProjects/CRUD-back/src/main/java/produtos/ProdutoService.java
+/home/marcelo/NetBeansProjects/CRUD-back/src/main/java/config/CrossOriginFilter.java

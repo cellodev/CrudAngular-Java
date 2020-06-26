@@ -1,0 +1,5 @@
+config/ConstraintViolationExceptionMapper.class
+produtos/Produto.class
+produtos/ProdutoService.class
+config/ApplicationConfig.class
+config/CrossOriginFilter.class
